@@ -1,0 +1,129 @@
+[
+    {
+     "id": 1,
+     "img": "./pant/pant (1).webp",
+     "price":1100,
+     "rating": 4.5,
+     "name":"Long Sleeve Casual Pant",
+     "brand":"Easy"
+   },{
+     "id": 2,
+     "img": "./pant/pant (2).webp",
+     "price":800,
+     "rating": 4.8,
+     "name":"Long Sleeve Casual Pant",
+     "brand":"Le Reve"
+   },{
+     "id": 3,
+     "img": "./pant/pant (3).webp",
+     "price":1200,
+     "rating": 4.7,
+     "name":"Formal Pant",
+     "brand":"Easy"
+   },{
+     "id": 4,
+     "img": "./pant/pant (4).webp",
+     "price":800,
+     "rating": 4.6,
+     "name":"Men's Formal Pant",
+     "brand":"Le Reve"
+   },{
+     "id": 5,
+     "img": "./pant/pant (5).webp",
+     "price":900,
+     "rating": 4.8,
+     "name":"Long Sleeve Casual Pant",
+     "brand":"Arong"
+   },{
+     "id": 6,
+     "img": "./pant/pant (6).webp",
+     "price":1100,
+     "rating": 4.9,
+     "name":"Casual Pant",
+     "brand":"RichMan"
+   },{
+     "id": 7,
+     "img": "./pant/pant (7).webp",
+     "price":1200,
+     "rating": 4.3,
+     "name":"Full Sleve Pant",
+     "brand":"Arong"
+   },{
+     "id": 8,
+     "img": "./pant/pant (8).webp",
+     "price":800,
+     "rating": 4.1,
+     "name":"Long Sleeve Casual Pant",
+     "brand":"Yellow"
+   },{
+     "id": 9,
+     "img": "./pant/pant (9).webp",
+     "price":900,
+     "rating": 4.2,
+     "name":"Casual Pant",
+     "brand":"RichMan"
+   },{
+     "id": 10,
+     "img": "./pant/pant (10).webp",
+     "price":1300,
+     "rating": 4.1,
+     "name":"Long Sleeve Casual Pant",
+     "brand":"Le Reve"
+   },{
+     "id": 11,
+     "img": "./pant/pant (11).webp",
+     "price":1100,
+     "rating": 4.8,
+     "name":"Casual Pant",
+     "brand":"Yellow"
+   },{
+     "id": 12,
+     "img": "./pant/pant (12).webp",
+     "price":1000,
+     "rating": 4.8,
+     "name":"Full Sleve Pant",
+     "brand":"Easy"
+   },{
+     "id": 13,
+     "img": "./pant/pant (13).webp",
+     "price":1300,
+     "rating": 5.0,
+     "name":"Long Sleeve Casual Pant",
+     "brand":"Le Reve"
+   },{
+     "id": 14,
+     "img": "./pant/pant (14).webp",
+     "price":1200,
+     "rating": 4.6,
+     "name":"Full Sleve Pant",
+     "brand":"Arong"
+   },{
+     "id": 15,
+     "img": "./pant/pant (15).webp",
+     "price":900,
+     "rating": 4.9,
+     "name":"Casual Pant",
+     "brand":"Easy"
+   },{
+     "id": 16,
+     "img": "./pant/pant (16).webp",
+     "price":1000,
+     "rating": 4.9,
+     "name":"Full Sleve Pant",
+     "brand":"Le Reve"
+   },{
+     "id": 17,
+     "img": "./pant/pant (17).webp",
+     "price":1100,
+     "rating": 4.4,
+     "name":"Formal Pant",
+     "brand":"Yellow"
+   },{
+     "id": 18,
+     "img": "./pant/pant (18).webp",
+     "price":1000,
+     "rating": 4.3,
+     "name":"Men's Formal Pant",
+     "brand":"Easy"
+   }
+]

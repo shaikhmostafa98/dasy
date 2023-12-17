@@ -1,0 +1,131 @@
+
+
+[
+    {
+     "id": 1,
+     "img": "./shoe/shoe (1).jpg",
+     "price":2100,
+     "rating": 4.5,
+     "name":"Apex Formal Shoes",
+     "brand":"Apex"
+   },{
+     "id": 2,
+     "img": "./shoe/shoe (2).jpg",
+     "price":1800,
+     "rating": 4.7,
+     "name":"Apex Sport Men Shoes",
+     "brand":"Apex"
+   },{
+     "id": 3,
+     "img": "./shoe/shoe (2).jpeg",
+     "price":2000,
+     "rating": 4.2,
+     "name":"Apex Formal Shoes",
+     "brand":"Apex"
+   },{
+     "id": 4,
+     "img": "./shoe/shoe (3).jpg",
+     "price":2600,
+     "rating": 4.6,
+     "name":" Formal Shoes",
+     "brand":"Lotto"
+   },{
+     "id": 5,
+     "img": "./shoe/shoe (4).jpg",
+     "price":2100,
+     "rating": 4.1,
+     "name":"Bata Sport Shoes",
+     "brand":"Bata"
+   },{
+     "id": 6,
+     "img": "./shoe/shoe (5).jpg",
+     "price":2000,
+     "rating": 4.5,
+     "name":"Apex Formal Shoes",
+     "brand":"Apex"
+   },{
+     "id": 7,
+     "img": "./shoe/shoe (6).jpg",
+     "price":2000,
+     "rating": 3.5,
+     "name":" Formal Shoes",
+     "brand":"Bata"
+   },{
+     "id": 8,
+     "img": "./shoe/shoe (7).jpg",
+     "price":2500,
+     "rating": 4.6,
+     "name":"Sport Shoes",
+     "brand":"Apex"
+   },{
+     "id": 9,
+     "img": "./shoe/shoe (8).jpg",
+     "price":2800,
+     "rating": 4.8,
+     "name":"Sport Shoes",
+     "brand":"Lotto"
+   },{
+     "id": 10,
+     "img": "./shoe/shoe (17).jpg",
+     "price":2200,
+     "rating": 4.3,
+     "name":"Sport Shoes",
+     "brand":"Lotto"
+   },{
+     "id": 11,
+     "img": "./shoe/shoe (9).jpg",
+     "price":2300,
+     "rating": 4.4,
+     "name":"Sport Shoes",
+     "brand":"Apex"
+   },{
+     "id": 12,
+     "img": "./shoe/shoe (10).jpg",
+     "price":2000,
+     "rating": 4.2,
+     "name":"Sport Shoes",
+     "brand":"Lotto"
+   },{
+     "id": 13,
+     "img": "./shoe/shoe (11).jpg",
+     "price":1800,
+     "rating": 4.2,
+     "name":"Sport Shoes",
+     "brand":"Bata"
+   },{
+     "id": 14,
+     "img": "./shoe/shoe (12).jpg",
+     "price":2400,
+     "rating": 4.4,
+     "name":"Apex Formal Shoes",
+     "brand":"Apex"
+   },{
+     "id": 15,
+     "img": "./shoe/shoe (13).jpg",
+     "price":1600,
+     "rating": 4.1,
+     "name":"Sport Shoes",
+     "brand":"Bata"
+   },{
+     "id": 16,
+     "img": "./shoe/shoe (14).jpg",
+     "price":2500,
+     "rating": 4.9,
+     "name":" Sport Shoes",
+     "brand":"Apex"
+   },{
+     "id": 17,
+     "img": "./shoe/shoe (15).jpg",
+     "price":2100,
+     "rating": 4.3,
+     "name":"Formal Shoes",
+     "brand":"Lotto"
+   },{
+     "id": 18,
+     "img": "./shoe/shoe (16).jpg",
+     "price":2000,
+     "rating": 4.2,
+     "name":"Bata Formal Shoes",
+     "brand":"Bata"
+   }
+]

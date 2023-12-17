@@ -1,0 +1,131 @@
+
+
+[
+    {
+     "id": 1,
+     "img": "./shirt/shirt (1).webp",
+     "price":1100,
+     "rating": 4.5,
+     "name":"Long Sleeve Casual Shirt",
+     "brand":"Easy"
+   },{
+     "id": 2,
+     "img": "./shirt/shirt (2).webp",
+     "price":800,
+     "rating": 4.8,
+     "name":"Long Sleeve Casual Shirt",
+     "brand":"Le Reve"
+   },{
+     "id": 3,
+     "img": "./shirt/shirt (3).webp",
+     "price":1200,
+     "rating": 4.7,
+     "name":"Formal Shirt",
+     "brand":"Easy"
+   },{
+     "id": 4,
+     "img": "./shirt/shirt (4).webp",
+     "price":800,
+     "rating": 4.6,
+     "name":"Men's Formal Shirt",
+     "brand":"Le Reve"
+   },{
+     "id": 5,
+     "img": "./shirt/shirt (5).webp",
+     "price":900,
+     "rating": 4.8,
+     "name":"Long Sleeve Casual Shirt",
+     "brand":"Arong"
+   },{
+     "id": 6,
+     "img": "./shirt/shirt (6).webp",
+     "price":1100,
+     "rating": 4.9,
+     "name":"Casual Shirt",
+     "brand":"RichMan"
+   },{
+     "id": 7,
+     "img": "./shirt/shirt (7).webp",
+     "price":1200,
+     "rating": 4.3,
+     "name":"Full Sleve Shirt",
+     "brand":"Arong"
+   },{
+     "id": 8,
+     "img": "./shirt/shirt (8).webp",
+     "price":800,
+     "rating": 4.1,
+     "name":"Long Sleeve Casual Shirt",
+     "brand":"Yellow"
+   },{
+     "id": 9,
+     "img": "./shirt/shirt (9).webp",
+     "price":900,
+     "rating": 4.2,
+     "name":"Casual Shirt",
+     "brand":"RichMan"
+   },{
+     "id": 10,
+     "img": "./shirt/shirt (10).webp",
+     "price":1300,
+     "rating": 4.1,
+     "name":"Long Sleeve Casual Shirt",
+     "brand":"Le Reve"
+   },{
+     "id": 11,
+     "img": "./shirt/shirt (11).webp",
+     "price":1100,
+     "rating": 4.8,
+     "name":"Casual Shirt",
+     "brand":"Yellow"
+   },{
+     "id": 12,
+     "img": "./shirt/shirt (12).webp",
+     "price":1000,
+     "rating": 4.8,
+     "name":"Full Sleve Shirt",
+     "brand":"Easy"
+   },{
+     "id": 13,
+     "img": "./shirt/shirt (13).webp",
+     "price":1300,
+     "rating": 5.0,
+     "name":"Long Sleeve Casual Shirt",
+     "brand":"Le Reve"
+   },{
+     "id": 14,
+     "img": "./shirt/shirt (14).webp",
+     "price":1200,
+     "rating": 4.6,
+     "name":"Full Sleve Shirt",
+     "brand":"Arong"
+   },{
+     "id": 15,
+     "img": "./shirt/shirt (15).webp",
+     "price":900,
+     "rating": 4.9,
+     "name":"Casual Shirt",
+     "brand":"Easy"
+   },{
+     "id": 16,
+     "img": "./shirt/shirt (16).webp",
+     "price":1000,
+     "rating": 4.9,
+     "name":"Full Sleve Shirt",
+     "brand":"Le Reve"
+   },{
+     "id": 17,
+     "img": "./shirt/shirt (17).webp",
+     "price":1100,
+     "rating": 4.4,
+     "name":"Formal Shirt",
+     "brand":"Yellow"
+   },{
+     "id": 18,
+     "img": "./shirt/shirt (18).webp",
+     "price":1000,
+     "rating": 4.3,
+     "name":"Men's Formal Shirt",
+     "brand":"Easy"
+   }
+]
