@@ -17,7 +17,6 @@ const Home = () => {
   fetch("shoe.json")
     .then((res) => res.json())
     .then((data) => setShoes(data));
-  console.log(typeof shirts);
   const myShirt = shirts.slice(0, 4);
   const myPant = pants.slice(0, 4);
   const myShoes = shoes.slice(0, 4);

@@ -4,6 +4,7 @@ import Banner from "../../../public/shirt/Banner.webp";
 
 const Shirt = () => {
   const shirts = useLoaderData();
+  console.log(shirts);
   return (
     <div>
       <img className="w-full" src={Banner} alt="" />

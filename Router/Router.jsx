@@ -18,22 +18,22 @@ const Router = createBrowserRouter([
       {
         path: "/shirt",
         element: <Shirt />,
-        loader: () => fetch("../public/shirt.json"),
+        loader: async () => fetch("../public/shirt.json"),
       },
       {
         path: "/pant",
         element: <Pant />,
-        loader: () => fetch("../public/pant.json"),
+        loader: async () => fetch("../public/pant.json"),
       },
       {
         path: "/shoe",
         element: <Shoes />,
-        loader: () => fetch("../public/shoe.json"),
+        loader: async () => fetch("../public/shoe.json"),
       },
       {
         path: "/product/:id",
         element: <Product />,
-        loader: () => fetch("../public/shoe.json"),
+        loader: async () => fetch("../public/shoe.json"),
       },
     ],
   },
