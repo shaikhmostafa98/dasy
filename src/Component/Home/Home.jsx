@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 import Homecart from "../Cart/Homecart";
 import { NavLink } from "react-router-dom";
@@ -8,15 +8,25 @@ const Home = () => {
   const [pants, setpants] = useState([]);
   const [shoes, setShoes] = useState([]);
 
-  fetch("shirt.json")
-    .then((res) => res.json())
-    .then((data) => setShirts(data));
-  fetch("pant.json")
-    .then((res) => res.json())
-    .then((data) => setpants(data));
-  fetch("shoe.json")
-    .then((res) => res.json())
-    .then((data) => setShoes(data));
+  useEffect(
+    fetch("shirt.json")
+      .then((res) => res.json())
+      .then((data) => setShirts(data)),
+    [shirts]
+  );
+
+  useEffect(
+    fetch("pant.json")
+      .then((res) => res.json())
+      .then((data) => setpants(data)),
+    [pants]
+  );
+  useEffect(
+    fetch("shoe.json")
+      .then((res) => res.json())
+      .then((data) => setShoes(data)),
+    [shoes]
+  );
   const myShirt = shirts.slice(0, 4);
   const myPant = pants.slice(0, 4);
   const myShoes = shoes.slice(0, 4);
