@@ -8,25 +8,22 @@ const Home = () => {
   const [pants, setpants] = useState([]);
   const [shoes, setShoes] = useState([]);
 
-  useEffect(
+  useEffect(() => {
     fetch("shirt.json")
       .then((res) => res.json())
-      .then((data) => setShirts(data)),
-    [shirts]
-  );
-
-  useEffect(
+      .then((data) => setShirts(data));
+  }, []);
+  useEffect(() => {
     fetch("pant.json")
       .then((res) => res.json())
-      .then((data) => setpants(data)),
-    [pants]
-  );
-  useEffect(
+      .then((data) => setpants(data));
+  }, []);
+  useEffect(() => {
     fetch("shoe.json")
       .then((res) => res.json())
-      .then((data) => setShoes(data)),
-    [shoes]
-  );
+      .then((data) => setShoes(data));
+  }, []);
+
   const myShirt = shirts.slice(0, 4);
   const myPant = pants.slice(0, 4);
   const myShoes = shoes.slice(0, 4);
